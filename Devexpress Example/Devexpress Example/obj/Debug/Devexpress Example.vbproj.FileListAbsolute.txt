@@ -1,0 +1,54 @@
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Devexpress Example.dll.config
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Devexpress Example.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Devexpress Example.pdb
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Devexpress Example.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.AspNet.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.Core.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OAuth.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OpenId.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\EntityFramework.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\EntityFramework.SqlServer.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Newtonsoft.Json.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Net.Http.Formatting.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Helpers.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Http.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Http.WebHost.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Mvc.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Razor.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.WebPages.Deployment.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.WebPages.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.WebPages.Razor.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\WebMatrix.Data.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\WebMatrix.WebData.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.AspNet.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.Core.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OAuth.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OpenId.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\EntityFramework.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\EntityFramework.SqlServer.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\Newtonsoft.Json.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Net.Http.Formatting.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Helpers.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Http.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Http.WebHost.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Mvc.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.Razor.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.WebPages.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.WebPages.Deployment.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\System.Web.WebPages.Razor.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\WebMatrix.Data.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\bin\WebMatrix.WebData.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\obj\Debug\Devexpress Example.vbprojResolveAssemblyReference.cache
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\obj\Debug\Devexpress_Example.Resources.resources
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\obj\Debug\Devexpress Example.vbproj.GenerateResource.Cache
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\obj\Debug\Devexpress Example.dll.licenses
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\obj\Debug\Devexpress Example.dll
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\obj\Debug\Devexpress Example.xml
+C:\Work\DevExpress-Examples\Devexpress Example\Devexpress Example\obj\Debug\Devexpress Example.pdb
