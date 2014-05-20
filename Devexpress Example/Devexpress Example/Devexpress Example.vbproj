@@ -214,6 +214,13 @@
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="masterdetail.aspx.designer.vb">
+      <DependentUpon>masterdetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="masterdetail.aspx.vb">
+      <DependentUpon>masterdetail.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -251,6 +258,7 @@
     </None>
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="masterdetail.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
