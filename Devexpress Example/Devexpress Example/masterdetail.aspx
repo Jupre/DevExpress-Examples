@@ -32,6 +32,11 @@
             </Columns>
             <Templates>
                 <DetailRow>
+                    Firma Telefon: <b>
+                    <%# Eval("TELEFON1")%></b>, Fax: <b>
+                        <%# Eval("FAX")%></b>
+                <br />
+                <br />
                       <dx:ASPxGridView  ID="detailGrid" runat="server"  DataSourceID="SqlDataSource2" KeyFieldName="KISI_ID" OnBeforePerformDataSelect="detailGrid_DataSelect" OnCustomUnboundColumnData="detailGrid_CustomUnboundColumnData"></dx:ASPxGridView>
 
                 </DetailRow>
