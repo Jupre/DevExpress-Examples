@@ -204,6 +204,13 @@
     <Compile Include="App_Start\FilterConfig.vb" />
     <Compile Include="App_Start\RouteConfig.vb" />
     <Compile Include="App_Start\WebApiConfig.vb" />
+    <Compile Include="customcolumn.aspx.designer.vb">
+      <DependentUpon>customcolumn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="customcolumn.aspx.vb">
+      <DependentUpon>customcolumn.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="default.aspx.designer.vb">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
@@ -256,6 +263,7 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <Content Include="customcolumn.aspx" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="masterdetail.aspx" />
